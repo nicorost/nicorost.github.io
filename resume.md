@@ -25,6 +25,5 @@ layout: page
 
 ### Voluntary Work
 * 2016-2018: Volunteer and honorary co-worker [WIR GESTALTEN e.V. Berlin](https://www.wirgestaltenev.de/)
-* 2013–2015: Member and Executive Board [Heidelberger Club für Wirtschaft und Kultur e. V.](https://heidelberger-symposium.de/) 
-* 2013:      Social worker at St. Anne’s Academy in Kisumu, Kenya 
+* 2013–2015: Member and Executive Board [Heidelberger Club für Wirtschaft und Kultur e. V.](https://heidelberger-symposium.de/)  
 
