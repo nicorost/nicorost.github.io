@@ -9,7 +9,6 @@ layout: page
 * 2015-2018: M.Sc. Social, Cognitive and Affective Neuroscience, FU Berlin
 * 2012-2015: B.Sc. Psychology, Heidelberg University
 * 2011-2012: Studium Generale, [Leibniz Kolleg Tübingen](https://www.leibniz-kolleg.uni-tuebingen.de ) 
-* 2002–2011  Kaiser-Heinrich-Gymnasium (academic high school), Bamberg 
 
 ### Work
 
