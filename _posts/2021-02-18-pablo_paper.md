@@ -2,7 +2,7 @@
 title: ":page_facing_up: paper: stress & HPA axis"
 layout: post
 date: 2021-02-18 16:00
-tag: psychiatry, stress, hpa axis, depression, abcb1, single-cell
+tag: psychiatry, stress, hpa axis, depression, abcb1
 image: /assets/images/abstract_pablo_sciadv.png
 headerImage: true
 projects: true
