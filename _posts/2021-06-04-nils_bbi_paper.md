@@ -3,7 +3,7 @@ title: ":page_facing_up: paper: network analysis"
 layout: post
 date: 2021-06-04 13:00
 tag: psychiatry, genetics, depression, inflammation, metabolism, network analysis
-image: /assets/images/abstract_nils_bbi.png 
+image: /assets/images/abstract_nils_bbi.PNG
 headerImage: true
 projects: true
 hidden: false # don't count this post in blog pagination

@@ -3,7 +3,7 @@ title: ":page_facing_up: paper: psychiatric genetics"
 layout: post
 date: 2020-10-29 16:00
 tag: psychiatry, genetics, depression, inflammation, metabolism
-image: /assets/images/abstract_nils_jama.png 
+image: /assets/images/abstract_nils_jama.PNG
 headerImage: true
 projects: true
 hidden: false # don't count this post in blog pagination
