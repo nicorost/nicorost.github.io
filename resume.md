@@ -19,7 +19,7 @@ layout: page
 
 ### Skills
 * r, python, matlab, spss
-* MS office, latex
+* ms office, latex
 * git, unix
 
 ### Voluntary Work
