@@ -106,4 +106,10 @@
             <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
         </a>
     {% endif %}
+	
+	{% if site.gscholar %}
+        <a class="social-link" data-title="scholar.google.com/citations?user={{ site.gscholar }}" href="https://scholar.google.com/citations?user={{ site.gscholar }}" target="_blank" rel="me noopener noreferrer">
+            <svg class="icon icon-gscholar"><use xlink:href="#icon-gscholar"></use></svg>
+        </a>
+    {% endif %}
 </div>
