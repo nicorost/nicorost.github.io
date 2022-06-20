@@ -1,7 +1,7 @@
 ---
 title: ":hammer: Science Communication Booklet"
 layout: post
-date: 2021-08-07 12:00
+date: 2022-06-01 12:00
 tag: brain, mental health, psychiatry, psychology, neuroscience, science communication
 image: /assets/images/psycomm_booklet.png
 headerImage: true
