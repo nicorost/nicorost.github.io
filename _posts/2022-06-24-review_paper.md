@@ -1,5 +1,5 @@
 ---
-title: ":page_facing_up: review paper: depression treatment outcome"
+title: ":page_facing_up: review paper: MDD treatment outcome"
 layout: post
 date: 2022-06-24 12:00
 tag: psychiatry, depression, review, treatment outcome, prediction
@@ -7,7 +7,7 @@ image: /assets/images/review_paper.PNG
 headerImage: true
 projects: true
 hidden: false # don't count this post in blog pagination
-description: "review paper: depression treatment outcome"
+description: "review paper: MDD treatment outcome"
 category: project
 author: nicorost
 externalLink: false
