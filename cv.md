@@ -12,7 +12,7 @@ layout: page
 
 ### Work
 
-* 2018-now: Translational Research in Psychiatry, MPI of Psychiatry, Munich
+* 2018-now:  Translational Research in Psychiatry, MPI of Psychiatry, Munich
 * 2016-2018: Einstein Group on Social Identity of the [Berlin School of Mind and Brain](http://www.mind-and-brain.de/home/), HU Berlin 
 * 2014:	     Institute for Medical Psychology and Behavioural Neurobiology, University of Tübingen
 * 2013-2015: Tennis coach, [ITA Becker](https://rainerbecker-tennis.de/)
@@ -23,6 +23,9 @@ layout: page
 * git, unix
 
 ### Voluntary Work
+* 2019-now:  Sustainability group, MPI of Psychiatry
+* 2021-2022: PhD student representative, MPI of Psychiatry
+* 2020-2021: [IMPRS-TP](https://www.imprs-tp.mpg.de/) science communication and outreach group
 * 2016-2018: Volunteer and honorary co-worker [WIR GESTALTEN e.V. Berlin](https://www.wirgestaltenev.de/)
 * 2013–2015: Member and Executive Board [Heidelberger Club für Wirtschaft und Kultur e. V.](https://heidelberger-symposium.de/)  
 
