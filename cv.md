@@ -18,7 +18,7 @@ layout: page
 * 2013-2015: Tennis coach, [ITA Becker](https://rainerbecker-tennis.de/)
 
 ### Skills
-* r, python, matlab, spss
+* r, python, matlab, SQL
 * ms office, latex
 * git, unix
 
