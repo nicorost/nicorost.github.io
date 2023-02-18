@@ -15,7 +15,7 @@ layout: page
 * 2018-now:  Translational Research in Psychiatry, MPI of Psychiatry, Munich
 * 2016-2018: Einstein Group on Social Identity of the [Berlin School of Mind and Brain](http://www.mind-and-brain.de/home/), HU Berlin 
 * 2014:	     Institute for Medical Psychology and Behavioural Neurobiology, University of Tübingen
-* 2013-2015: Tennis coach, [ITA Becker](https://rainerbecker-tennis.de/)
+* 2013-2015: Tennis coach, [Tennis-Academy Rainer Becker](https://rainerbecker-tennis.de/)
 
 ### Skills
 * r, python, matlab, SQL
