@@ -6,9 +6,9 @@ layout: page
 
 Welcome!
 
-I'm Nico, a PhD Student and computational scientist in the field of computational psychiatry.
+I'm Nico, a PhD Student and computational scientist in the field of translational psychiatry.
 
-After spending an exciting and very interdisciplinary orientation year in Tübingen, I was eager to center my studies around mental health.
+After spending an exciting and very interdisciplinary orientation year in Tübingen, I was eager to center my studies around (mental) health.
 This brought me into psychology in Heidelberg first, and into my master's program in neuroscience in Berlin afterwards.
 
 Due to my interest in research, statistics and data science, I am now working as a computational scientist in the department of [Translational Research in Psychiatry](https://www.psych.mpg.de/1495955/binder) 
