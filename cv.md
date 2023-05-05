@@ -13,15 +13,15 @@ layout: page
 
 ### Education
 
-* 2018-now:  PhD student ([IMPRS-TP](https://www.imprs-tp.mpg.de/)), Dept. Translational Research in Psychiatry, [MPI of Psychiatry](https://www.psych.mpg.de/1495955/binder) and LMU Munich
+* 2019-now:  PhD student ([IMPRS-TP](https://www.imprs-tp.mpg.de/)), Dept. Translational Research in Psychiatry, [MPI of Psychiatry](https://www.psych.mpg.de/1495955/binder) and LMU Munich
 * 2015-2018: M.Sc. Social, Cognitive and Affective Neuroscience, FU Berlin
 * 2012-2015: B.Sc. Psychology, Heidelberg University
 * 2011-2012: Studium Generale, [Leibniz Kolleg Tübingen](https://www.leibniz-kolleg.uni-tuebingen.de ) 
 
 ### Skills
 * r, python, matlab, SQL
-* ms office, latex
-* git, unix
+* tidyverse, shiny, markdown, quarto, sklearn, tensorflow, jupyter
+* unix, git, docker
 
 ### Voluntary Work
 * 2019-now:  Sustainability group, MPI of Psychiatry
