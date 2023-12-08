@@ -6,7 +6,7 @@ layout: page
 
 Welcome!
 
-I'm Nico, a statistician and neuroscientist working at the intersection of data science and health care.
+I'm Nico, a statistician and neuroscientist working at the intersection of data science and healthcare.
 
 After spending an exciting and very interdisciplinary orientation year in Tübingen, I was eager to center my studies around (mental) health.
 This brought me into psychology in Heidelberg first, and into my master's program in neuroscience in Berlin afterwards.
