@@ -1,9 +1,9 @@
 # main text of home
 name: Nicolas Rost
-bio: Psychology || Neuroscience || Statistics Working in Computational Psychiatry
+bio: Health Care | Research | Statistics Working @ Roche Diagnostics
 
 # SEO
-keywords: Psychology, Biological Psychology, Clinical Psychology, Mental Health, Psychiatry, Computational Psychiatry, Data Science, Munich, Statistics, Machine Learning, LMU, Data Scientist, Max Planck Institute of Psychiatry
+keywords: Psychology, Biological Psychology, Clinical Psychology, Mental Health, Psychiatry, Computational Psychiatry, Data Science, Munich, Statistics, Machine Learning, LMU, Data Scientist, Max Planck Institute of Psychiatry, Roche
 
 # twitter summary info
 description: intro nicolas rost
@@ -43,7 +43,7 @@ gscholar: EO4RPakAAAAJ
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: nicolas-rost-16040218b
+linkedin: nico-rost
 # youtube: myyoutube
 # spotify: myspotify
 github: nicorost
@@ -60,7 +60,7 @@ email: nicolas_rost@psych.mpg.de
 authors:
     nicolasrost:
         name: Nicolas Rost
-        bio: Psychologist | Neuroscientist | Statistician working in Computational Psychiatry
+        bio: Health Care | Research | Statistics Working @ Roche Diagnostics
         external-image: false
         picture: assets/images/nico_rost.jpg
         #twitter: johndoe
