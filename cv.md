@@ -14,7 +14,7 @@ layout: page
 
 ### Education
 
-* 2019-2023: PhD student ([IMPRS-TP](https://www.imprs-tp.mpg.de/)), Dept. Genes and Environment, [MPI of Psychiatry](https://www.psych.mpg.de/1495955/binder) and [LMU Munich](https://www.en.mmrs.med.uni-muenchen.de/index.html)
+* 2019-2023: PhD student ([IMPRS-TP](https://www.imprs-tp.mpg.de/)), Dept. Translational Research in Psychiatry, [MPI of Psychiatry](https://www.psych.mpg.de/1495955/binder) and [LMU Munich](https://www.en.mmrs.med.uni-muenchen.de/index.html)
 * 2015-2018: M.Sc. Social, Cognitive and Affective Neuroscience, FU Berlin
 * 2012-2015: B.Sc. Psychology, Heidelberg University
 * 2011-2012: Studium Generale, [Leibniz Kolleg Tübingen](https://www.leibniz-kolleg.uni-tuebingen.de ) 
