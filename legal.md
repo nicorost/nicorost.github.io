@@ -9,7 +9,7 @@ Inhaltlich verantwortlich und vertretungsberechtigt:
 
 Nicolas Rost
 
-nico.rost[aet]posteo.de
+dr.n.rost[aet]gmail.com
 
 # Datenschutz
 
